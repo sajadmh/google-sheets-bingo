@@ -1,7 +1,9 @@
 # Live-Google-Sheets-Bingo
 Generate bingo cards for live team gameplay on Google Sheets utilizing Google Apps Script.
 
-[Make a Copy of the Google Sheet Here.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTanMIVOxWKwWmTsulG8ZIWJa2VsDhK_zcu8ASPtRYKRLYCAJtvwjb-01kPpvQRKX7u-brE1sAc0GxX/pubhtml)
+# [Make a copy of the Google Sheet here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTanMIVOxWKwWmTsulG8ZIWJa2VsDhK_zcu8ASPtRYKRLYCAJtvwjb-01kPpvQRKX7u-brE1sAc0GxX/pubhtml)
+
+
 
  <img src="https://raw.githubusercontent.com/sajadmh/Live-Google-Sheets-Bingo/main/settings.png" width="700">
 
