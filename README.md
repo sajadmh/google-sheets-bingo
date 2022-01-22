@@ -1,20 +1,16 @@
-# Live-Google-Sheets-Bingo
-Generate bingo cards for live team gameplay on Google Sheets utilizing Google Apps Script.
+Play Bingo live on Google Sheets with Google Apps Script.
+
 
 # [Make a copy of the Google Sheet here!](https://docs.google.com/spreadsheets/d/1pyIqQHvCQLVdCQ8sF_U8VKbcVHL5Ew_7oP2cW-nYgSI/edit?usp=sharing)
 
 
+To view the script, go to Extensions > Apps Script or view the file in the directory.
 
- <img src="https://raw.githubusercontent.com/sajadmh/Live-Google-Sheets-Bingo/main/settings.png" width="700">
+Instructions:
 
-<img src="https://raw.githubusercontent.com/sajadmh/Live-Google-Sheets-Bingo/main/bingocard.png" width="700">
-
-To view the script, go to Extensions > App Scripts.
-
-Create a new sheet for each player. Enter your Bingo values under the "List of Options" section in the Settings sheet, then uncheck and check the "Generate New Cards" checkbox.
-
-Center "Free Space" is optional with a checkbox. To add to all sheets, check the box. To remove, uncheck the box and generate all new cards.
-
-To reset an individual's sheet, insert a checkbox in the top left corner cell of their sheet and check the box.
-
-To fill out a box in the Bingo card, enter "1" (or above) in the mini card at the top right corner. To reset the fill, enter "999" respectively.
+1. Duplicate and rename a sheet for each player
+2. List your Bingo values in the Settings sheet under the "List of Options" section
+3. Uncheck and check the box under "Generate New Cards"
+4. All sheets will include a "Free Space" square. To remove, uncheck the "Free Space" box in Settings, then generate all new cards.
+5. To reset one player's sheet, as opposed to all sheets, insert a checkbox in the top left corner cell of their sheet and check the box.
+6. During gameplay, have players fill their bingo cards by entering "1" (or a number above) in the mini-card in the top right corner of their sheet. To reset the fill, enter "999" where needed.
