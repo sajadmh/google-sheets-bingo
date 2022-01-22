@@ -14,7 +14,7 @@ Instructions:
 4. Uncheck and check the box under "Generate New Cards" to randomize the values into each player's card/sheet
 5. All sheets will include a "Free Space" square. To remove, uncheck the "Free Space" box in Settings, then generate all new cards again
 
-Tip:
+Tips:
 
 * To generate all new values for one player's sheet, as opposed to all sheets, insert a checkbox in the top left corner cell of their sheet and check the box
 * During gameplay, have players fill their bingo cards by entering "1" (or a number above) in the mini-card in the top right corner of their sheet. To reset the fill, enter "999" in place of the "1"
