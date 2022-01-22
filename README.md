@@ -1,7 +1,7 @@
 Play Bingo live on Google Sheets with Google Apps Script.
 
 
-# [Make a copy of the Google Sheet here!](https://docs.google.com/spreadsheets/d/1pyIqQHvCQLVdCQ8sF_U8VKbcVHL5Ew_7oP2cW-nYgSI/edit?usp=sharing)
+# [Make a copy of the Google Sheet here!](https://docs.google.com/spreadsheets/d/1pyIqQHvCQLVdCQ8sF_U8VKbcVHL5Ew_7oP2cW-nYgSI/copy)
 
 
 To view the script, go to Extensions > Apps Script or view the file in the directory.
